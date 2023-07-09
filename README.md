@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-fluent-ui-system-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-fluent-ui-system-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fluent-ui-system-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-fluent-ui-system-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fluent-ui-system-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-fluent-ui-system-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fluent-ui-system-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-fluent-ui-system-icons" alt="License" />
-    </a>
-</p>
 
 ## About Fluent UI System Icons
 
